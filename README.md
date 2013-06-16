@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SM RailsCast 328
 ================
 
@@ -39,3 +40,7 @@ Run `rails` server
 ```
 rails s
 ```
+=======
+sm_rc328
+========
+>>>>>>> 34bb6d4f20cff62c40e57db0b637a5bf0ae84ecc
